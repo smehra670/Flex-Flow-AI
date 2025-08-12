@@ -1,0 +1,8 @@
+.env
+users.json
+score.json
+__pycache__/
+*.pyc
+.venv/
+.streamlit/
+.DS_Store
